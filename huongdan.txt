@@ -1,0 +1,13 @@
+Bước 1:
+- install Nodejs
+- create-react-app
+
+Bước 2: install dependencies
+- cấu hình lại index.css, app.css, app.js, remove logo
+- install mobilenet knn-class howler
+
+Bước 3: Buil UI
+- Setup UI
+
+Bước 4: Import Dependencies
+- install @tensorflow/tfjs
